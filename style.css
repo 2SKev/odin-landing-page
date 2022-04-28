@@ -1,0 +1,15 @@
+.header,
+.top-header,
+.main-header,
+.left-header {
+    display: flex;
+}
+
+.header,
+.left-header {
+    flex-direction: column;
+}
+
+button {
+    width: 100px;
+}
